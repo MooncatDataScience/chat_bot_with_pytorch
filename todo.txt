@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Sep  9 06:39:19 2022
+
+@author: Takodachi
+
+todo
+1) Theory + NLP concepts 
+2) Create traing data
+3) Pytorch model and training
+4) Save/load model and implement the chat
+"""
+
